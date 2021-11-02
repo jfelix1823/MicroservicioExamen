@@ -1,4 +1,4 @@
-# MIcroServicio Examen
+# MicroServicio Examen
 Micro servicio con spring boot Clientes se conecta a firestore
 
 Para poder utilizar este microservicio se tiene que configurar la llave para conectarse a tu firebase.
